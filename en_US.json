@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "shortName": "en_US",
+    "name": "English (United States)",
+    "version": 1
+  },
+  "translations": {
+    "message.moderation.banned-from-server": "You are banned.\nDuration: {banned.duration}\n\nReason: {banned.reason}",
+
+    "generic.time.years": "{time.years} years",
+    "generic.time.months": "{time.months} months",
+    "generic.time.weeks": "{time.weeks} weeks",
+    "generic.time.days": "{time.days} days",
+    "generic.time.hours": "{time.hours} hours",
+    "generic.time.minutes": "{time.minutes} minutes",
+    "generic.time.seconds": "{time.seconds} seconds",
+    "generic.time.year": "{time.years} year",
+    "generic.time.month": "{time.months} month",
+    "generic.time.week": "{time.weeks} week",
+    "generic.time.day": "{time.days} day",
+    "generic.time.hour": "{time.hours} hour",
+    "generic.time.minute": "{time.minutes} minute",
+    "generic.time.second": "{time.seconds} second"
+  }
+}
